@@ -1,6 +1,6 @@
 # Biohackathon Project Template
 
-This repository is a starting point for a three-day team project. Use it to plan, build, and document work.
+This repository is a starting point for a three-day team project. This repository is populated with a starting template for team organization and planning. Use it to plan, build, and document work. Please adjust this repository to suite the needs of your team.
 
 > **Team leads:** Start with the [team lead checklist](project-management/README.md) before the event or during your first team meeting.
 

@@ -2,15 +2,12 @@
 
 Use this page to get the team moving. It is intentionally short: a three-day project needs enough structure to coordinate work, not a second project to maintain.
 
-## Before the Event
+## Team Leads: Before the Event
 
-- [ ] Confirm that organizers have provided the team's repository and added every team member.
-- [ ] Verify that each team member can open the repository and clone it locally.
 - [ ] Complete the [project profile](../README.md#project-profile).
-- [ ] Ask the team to name its tools and stack: languages, libraries, notebooks, APIs, databases, and services.
-- [ ] Use that stack and the expected output to suggest practical roles in [team.md](team.md).
 - [ ] Agree on one communication channel and a short check-in rhythm.
 - [ ] Create three to six small first tasks in the project board or [project-plan.md](project-plan.md).
+- [ ] Use the plan and the expected output to suggest practical roles in [team.md](team.md).
 
 ## During the Three Days
 
@@ -30,18 +27,10 @@ Use this page to get the team moving. It is intentionally short: a three-day pro
 
 ### Day 3: Explain and hand off
 
-- Decide what the final demo or handoff must show.
+- Decide what the final demo and booth must show as a team.
 - Make the main workflow understandable to someone who was not in the room.
 - Capture what worked, what did not, and what should happen next.
 - Run the available checks and record their results.
-
-## Lightweight Team Agreement
-
-- Ask for help before a blocker consumes a large part of the day.
-- Prefer visible work in issues, branches, and pull requests over private coordination.
-- Review changes kindly and focus feedback on the work.
-- Do not commit passwords, API keys, private information, or sensitive human or clinical data.
-- Cite external data, code, models, and other resources.
 
 ## Optional Templates
 

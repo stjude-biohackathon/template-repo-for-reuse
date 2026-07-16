@@ -1,6 +1,6 @@
 # AI Assistance in This Repository
 
-GitHub Copilot is available in VS Code for this project. Use it as a learning and collaboration aid, not as an authority.
+GitHub Copilot is available in VS Code for KIDS Biohackathon 2026. Please use it as a learning and collaboration aid, not as an authority.
 
 ## Good Uses
 
@@ -12,13 +12,13 @@ GitHub Copilot is available in VS Code for this project. Use it as a learning an
 
 ## Habits That Help
 
-- Run `/init` when starting in an unfamiliar repository, when the command is available in your VS Code setup.
+- Run `/init` when starting in this repository, when the command is available in your VS Code setup.
 - Create or refine a skill or repository instruction when a repeated workflow needs specialized guidance.
 - Keep relevant context high: state the goal, constraints, tools, current state, and what you already tried.
 - Use separate chats for separate ideas, experiments, or tasks so each conversation stays focused.
 - Ask the agent to inspect the repository before proposing changes.
 - Ask it to explain assumptions and verify commands, tests, and results.
-- Make small changes that a beginner can understand and review.
+- Whenever changes are made, ask the agent to review.
 
 See the official [VS Code agent mode guide](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode), [customization overview](https://code.visualstudio.com/docs/copilot/customization/overview), and [agent skills guide](https://code.visualstudio.com/docs/copilot/customization/agent-skills) for more detail.
 

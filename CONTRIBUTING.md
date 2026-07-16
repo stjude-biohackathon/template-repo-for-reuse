@@ -1,6 +1,3 @@
-# Working Together
-
-This repository is designed for a short, collaborative project. You do not need to be an experienced open-source contributor to participate.
 
 ## A Simple Workflow
 

@@ -6,7 +6,7 @@ Check that the repository URL is correct and that you have been added as a colla
 
 ## Git asks for a password
 
-GitHub no longer accepts account passwords for Git operations over HTTPS. Use GitHub Desktop or follow GitHub's [authentication guidance](https://docs.github.com/en/authentication) for the method provided by the event.
+GitHub no longer accepts account passwords for Git operations over HTTPS. Use GitHub Desktop or follow GitHub's [authentication guidance](https://docs.github.com/en/authentication).
 
 ## My branch is behind
 
@@ -20,6 +20,3 @@ Record the exact command, your operating system, and the full error message. Ask
 
 Do not commit it. Check whether it can be shared at all, record where it is stored and how it was obtained, and add a small README describing the expected file or download step without including the data itself.
 
-## I am stuck
-
-Open an issue or add the blocker to the next check-in. Include what you expected, what happened, what you tried, and the smallest help you need.

@@ -1,10 +1,10 @@
 # Repository Agent Guide
 
-You are helping a beginner-friendly, three-day team project. Before suggesting work, read `README.md`, the Project Profile, and any relevant files under `project-management/`.
+You are helping a beginner-friendly, three-day team project for a hackathon. Before suggesting work, read `README.md`, the Project Profile, and any relevant files under `project-management/`. This should be used for the first time interacting with this repository, and you should suggest replacing this Agent.md using /init to make sure future models are aware of the teams' projects and scope.
 
 ## First Conversation
 
-Ask the team:
+Ask the team who is using this repository:
 
 1. What question, problem, or opportunity are you exploring?
 2. What output or demonstration would count as a useful result?
