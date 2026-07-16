@@ -1,11 +1,33 @@
-# <!-- Using .gitignore Python template-->
+# Local files and generated outputs
+
+*.DS_Store
+.env
+.env.*
+!.env.example
+*.secret
+*.key
+*.pem
+*.log
+
+# Large or sensitive data: store these outside Git unless sharing is permitted.
+*.bam
+*.cram
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.h5ad
+*.h5
+*.parquet
+
+# Python template exclusions
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-*.DS_Store*
 
 # C extensions
 *.so

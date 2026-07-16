@@ -1,10 +1,10 @@
-# Directories and Files for Communications
+# Communications
 
-Here are recommendations of directories (main bullet points) and files (sub-bullet points) that can be shared within the `communications` folder of a project repository.
+Keep communication easy to find and easy to use during the three-day event.
 
-* [ ] Communications channels
-* [ ] Onboarding materials
-* [ ] Meeting notes - provide a template
-* [ ] Main contacts - be careful of GDPR rules when sharing details
-* [ ] Regular updates - weekly, bi-weekly or monthly announcements like bulletin or newsletter
-* [ ] Promotion and outreach materials
+- **Primary channel:** [Add the team channel or meeting link]
+- **Team lead:** [Add name and GitHub handle]
+- **Mentor or support contact:** [Add contact]
+- **Check-in time:** [Add a recurring time or agree in the team plan]
+
+Use [check-in.md](../check-in.md) for short updates when useful. Do not store private contact details or sensitive project information in this public repository.
