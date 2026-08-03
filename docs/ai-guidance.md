@@ -28,4 +28,4 @@ AI output can be incomplete, incorrect, insecure, or scientifically misleading. 
 
 Never provide an AI tool with passwords, API keys, private information, clinical or human-subject data, unpublished sensitive data, or anything your team is not allowed to share.
 
-Start with [Agent.md](../Agent.md), which gives the repository agent a small amount of context for its first interaction.
+Start with [AGENTS.md](../AGENTS.md), which gives the repository agent a small amount of context for its first interaction.
