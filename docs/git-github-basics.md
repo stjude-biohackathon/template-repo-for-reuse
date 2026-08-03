@@ -35,7 +35,7 @@ git switch -c Joe-Do
 # Make your changes, say you made changes to a file file1.txt
 git status
 git add file1.txt
-git commit -m "editted file1.txt"
+git commit -m "edited file1.txt"
 git push --set-upstream origin Joe-Do
 ```
 
