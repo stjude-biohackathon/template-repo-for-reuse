@@ -69,9 +69,9 @@ assets/             Images or other supporting project assets
 ## Resources
 
 - New to Git or GitHub or need to know how to work with git in a shared repo: read [Git and GitHub basics](docs/git-github-basics.md).
-- Using Copilot agents: read [AI assistance](docs/ai-guidance.md) and [Agent.md](Agent.md).
+- Using Copilot agents: read [AI assistance](docs/ai-guidance.md) and [AGENTS.md](AGENTS.md).
 - Stuck during setup: open [troubleshooting](docs/troubleshooting.md).
-- Collaborating on changes: see [contributing](CONTRIBUTING.md).
+- Collaborating on changes: see [Contributing to your team](#contributing-to-your-team) below.
 
 ## Contributing to your team
 ### A Simple Workflow
