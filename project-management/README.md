@@ -21,7 +21,7 @@ Use this page to get the team moving. It is intentionally short: a three-day pro
 ### Day 2: Build and learn
 
 - Keep tasks small enough to finish or review in one sitting.
-- Record decisions that change the approach in [decisions.md](decisions.md).
+- Record decisions that change the approach in a decision log (create `decisions.md` if useful).
 - Document data sources, assumptions, and unexpected limitations as they appear.
 - Check in briefly and redistribute work when someone is blocked.
 
