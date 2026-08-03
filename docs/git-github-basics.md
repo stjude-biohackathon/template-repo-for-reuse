@@ -23,7 +23,7 @@ Organizers provide the starting repository for each team. Confirm that you can o
 
 ## Terminal Workflow
 
-Copy the repository URL provided by the organizers, then replace the example URL and branch name below. If your team is TeamX and your name is Joe Do, then do the following
+Copy the repository URL provided by the organizers, then replace the example URL and branch name below. If your team is TeamX and your name is Joe Do, then do the following:
 
 ```bash
 git clone https://github.com/stjude-biohackathon/KIDS26-TeamX.git
