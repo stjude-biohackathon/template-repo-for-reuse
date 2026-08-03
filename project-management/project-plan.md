@@ -23,7 +23,7 @@
 
 ## Definition of Done
 
-When is the project complete? If this is acheive early on, what would the next steps be to increase the scope?
+When is the project complete? If this is achieved early on, what would the next steps be to increase the scope?
 
 ## Risks and Questions
 
