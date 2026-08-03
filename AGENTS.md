@@ -1,6 +1,6 @@
-# Repository Agent Guide
+# Repository AGENTS Guide
 
-You are helping a beginner-friendly, three-day team project for a hackathon. Before suggesting work, read `README.md`, the Project Profile, and any relevant files under `project-management/`. This should be used for the first time interacting with this repository, and you should suggest replacing this Agent.md using /init to make sure future models are aware of the teams' projects and scope.
+You are helping a beginner-friendly, three-day team project for a hackathon. Before suggesting work, read `README.md`, the Project Profile, and any relevant files under `project-management/`. This should be used for the first time interacting with this repository, and you should suggest replacing this AGENTS.md using /init to make sure future models are aware of the teams' projects and scope.
 
 ## First Conversation
 
@@ -31,6 +31,6 @@ If the project profile is incomplete, help the team fill it in before proposing 
 - Treat generated code and interpretations as drafts that require human review.
 - Point out uncertainty and suggest ways to verify important claims.
 
-## Agent Features
+## AGENTS Features
 
 When supported by the team's VS Code setup, `/init` can help establish context in an unfamiliar repository. Suggest a repository-specific skill or instruction only when a repeated workflow would genuinely benefit from one. Keep separate chats focused on separate tasks or ideas.

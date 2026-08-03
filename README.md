@@ -51,7 +51,7 @@ The goal is not a perfect production system. The goal is a clear, honest, useful
 
 ## Project Structure
 
-Use the folders that fit your project. You do not need to fill every folder.
+Use the folders that fit your project. You do not need to fill every folder. The following is just a suggestion, yours might look different.
 
 ```text
 data/raw/           Original inputs; do not edit in place
@@ -63,18 +63,48 @@ docs/               Optional learning and troubleshooting guides
 assets/             Images or other supporting project assets
 ```
 
-Keep a short record of where inputs came from, what you changed, which assumptions matter, and what limitations remain. Do not commit passwords, API keys, private information, or sensitive human or clinical data. Check the source and license before sharing external data or media.
+## Data, meta data and secrets
+**Do not commit passwords, API keys, private information, or identifiable human or clinical data. Check the source and license before sharing external data or media.**
 
-## Contributing and Resources
+## Resources
 
-- New to Git or GitHub: read [Git and GitHub basics](docs/git-github-basics.md).
+- New to Git or GitHub or need to know how to work with git in a shared repo: read [Git and GitHub basics](docs/git-github-basics.md).
 - Using Copilot agents: read [AI assistance](docs/ai-guidance.md) and [Agent.md](Agent.md).
 - Stuck during setup: open [troubleshooting](docs/troubleshooting.md).
 - Collaborating on changes: see [contributing](CONTRIBUTING.md).
-- Need a respectful working environment: see the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Contributing to your team
+### A Simple Workflow
+
+1. Pick a small task or write down a blocker.
+2. Create a branch with a clear name, such as `add-project-profile` or `fix-data-path`.
+3. Make one focused change and commit it with a short message.
+4. Push the branch and open a pull request.
+5. Ask another teammate to look at the change before merging.
+6. Update the README or project notes when the change affects how someone uses the project.
+
+The [Git and GitHub basics](docs/git-github-basics.md) guide explains each step, including a GitHub Desktop workflow.
+
+### A Pull Request Is Ready When
+
+- The change has a clear purpose.
+- A teammate can understand what changed.
+- You have recorded how you checked it, or explained why checking was not possible.
+- Relevant assumptions, data sources, and limitations are documented.
+- The change does not include credentials or sensitive data.
+
+Small, incomplete pull requests are welcome when they make the current state visible and clearly describe what remains.
+
 
 ## Reproducibility and Attribution
 
 Make work easier to inspect and reuse by keeping inputs, decisions, methods, and limitations visible. Prefer small readable steps over unexplained one-off commands. Cite data, code, models, and external resources that your project depends on. These practices help the next person understand what happened.
 
 This repository is a reusable template. See [LICENSE.md](LICENSE.md) for the licensing terms and update the project profile and attribution when you create a team project.
+
+# Code of Conduct
+
+In this repository, we use St. Jude's Code of Conduct document, outlining our expectations for all participants. Ask for help early, give feedback about the work rather than the person, and make room for different levels of experience.
+
+For details, please visit: https://issuu.com/sjcrh/docs/st._jude_code_of_conduct.
+

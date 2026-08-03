@@ -23,23 +23,27 @@ Organizers provide the starting repository for each team. Confirm that you can o
 
 ## Terminal Workflow
 
-Copy the repository URL provided by the organizers, then replace the example URL and branch name below.
+Copy the repository URL provided by the organizers, then replace the example URL and branch name below. If your team is TeamX and your name is Joe Do, then do the following
 
 ```bash
-git clone https://github.com/ORGANISATION/REPOSITORY.git
-cd REPOSITORY
-git switch -c add-project-profile
-# Make your changes
+git clone https://github.com/stjude-biohackathon/KIDS26-TeamX.git
+cd KIDS26-TeamX 
+git fetch --all
+git pull
+# Create a new branch for yourself
+git switch -c Joe-Do
+# Make your changes, say you made changes to a file file1.txt
 git status
-git add README.md
-git commit -m "Add project profile"
-git push --set-upstream origin add-project-profile
+git add file1.txt
+git commit -m "editted file1.txt"
+git push --set-upstream origin Joe-Do
 ```
 
 Then open GitHub, select **Compare & pull request**, describe the change, and ask a teammate to review it. After the pull request is merged, update your local default branch before starting the next task:
 
 ```bash
 git switch main
+git fetch --all
 git pull
 ```
 
