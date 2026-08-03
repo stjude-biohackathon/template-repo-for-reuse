@@ -7,4 +7,4 @@ Keep communication easy to find and easy to use during the three-day event.
 - **Mentor or support contact:** [Add contact]
 - **Check-in time:** [Add a recurring time or agree in the team plan]
 
-Use [check-in.md](../check-in.md) for short updates when useful. Do not store private contact details or sensitive project information in this public repository.
+Use `project-management/check-in.md` for short updates when useful (create the file if needed). Do not store private contact details or sensitive project information in this public repository.
