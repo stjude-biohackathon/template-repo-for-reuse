@@ -4,16 +4,16 @@ Use this page to get the team moving. It is intentionally short: a three-day pro
 
 ## Start Here
 
-1. **Access your assigned team repository.** Organizers will provide the repository and add team members. Confirm that you can open it on GitHub and clone it to your computer. Follow [Git and GitHub basics](docs/git-github-basics.md) for the full path.
+1. **Access your assigned team repository.** Organizers will provide the repository and add team members. Confirm that you can open it on GitHub and clone it to your computer. Follow [Git and GitHub basics](../docs/git-github-basics.md) for the full path.
 2. **Complete the project profile.** Agree on the question, inputs, expected output, tools, and team roles before pursuing a large implementation.
-3. **Make a small first change.** Create a branch, update this README or document a data source, commit the change, and open a pull request. Use the terminal steps in [Git and GitHub basics](docs/git-github-basics.md) or [GitHub Desktop](https://desktop.github.com/) if you prefer a graphical interface.
-4. **Ask for help early.** Record blockers in an issue, raise them at a check-in, or ask a mentor. See [troubleshooting](docs/troubleshooting.md) for common recovery steps.
+3. **Make a small first change.** Create a branch, update this README or document a data source, commit the change, and open a pull request. Use the terminal steps in [Git and GitHub basics](../docs/git-github-basics.md) or [GitHub Desktop](https://desktop.github.com/) if you prefer a graphical interface.
+4. **Ask for help early.** Record blockers in an issue, raise them at a check-in, or ask a mentor. See [troubleshooting](../docs/troubleshooting.md) for common recovery steps.
 
 ## The Team
 
-- **Members and roles:** Record these in [team.md](project-management/team.md).
-- **Ways of working:** Use the [team lead checklist](project-management/CHECKLIST.md) to agree on branches, reviews, communication, and check-ins.
-- **Current plan:** Keep small first tasks and risks in [project-plan.md](project-management/project-plan.md).
+- **Members and roles:** Record these in [team.md](team.md).
+- **Ways of working:** Use the [team lead checklist](CHECKLIST.md) to agree on branches, reviews, communication, and check-ins.
+- **Current plan:** Keep small first tasks and risks in [project-plan.md](project-plan.md).
 
 ## Project Structure
 
@@ -34,9 +34,9 @@ assets/             Images or other supporting project assets
 
 ## Resources
 
-- New to Git or GitHub or need to know how to work with git in a shared repo: read [Git and GitHub basics](docs/git-github-basics.md).
-- Using Copilot agents: read [AI assistance](docs/ai-guidance.md).
-- Stuck during setup: open [troubleshooting](docs/troubleshooting.md).
+- New to Git or GitHub or need to know how to work with git in a shared repo: read [Git and GitHub basics](../docs/git-github-basics.md).
+- Using Copilot agents: read [AI assistance](../docs/ai-guidance.md).
+- Stuck during setup: open [troubleshooting](../docs/troubleshooting.md).
 - Collaborating on changes: see [Contributing to your team](#contributing-to-your-team) below.
 
 ## Contributing to your team
@@ -49,7 +49,7 @@ assets/             Images or other supporting project assets
 5. Ask another teammate to look at the change before merging.
 6. Update the README or project notes when the change affects how someone uses the project.
 
-The [Git and GitHub basics](docs/git-github-basics.md) guide explains each step, including a GitHub Desktop workflow.
+The [Git and GitHub basics](../docs/git-github-basics.md) guide explains each step, including a GitHub Desktop workflow.
 
 ### A Pull Request Is Ready When
 
@@ -66,7 +66,7 @@ Small, incomplete pull requests are welcome when they make the current state vis
 
 Make work easier to inspect and reuse by keeping inputs, decisions, methods, and limitations visible. Prefer small readable steps over unexplained one-off commands. Cite data, code, models, and external resources that your project depends on. These practices help the next person understand what happened.
 
-This repository is a reusable template. See [LICENSE.md](LICENSE.md) for the licensing terms and update the project profile and attribution when you create a team project.
+This repository is a reusable template. See [LICENSE.md](../LICENSE.md) for the licensing terms and update the project profile and attribution when you create a team project.
 
 ## Code of Conduct
 
@@ -105,6 +105,30 @@ For details, please visit: https://issuu.com/sjcrh/docs/st._jude_code_of_conduct
 - Make the main workflow understandable to someone who was not in the room.
 - Capture what worked, what did not, and what should happen next.
 - Run the available checks and record their results.
+
+# Final Output and Handoff
+
+Use this space for the material that helps someone understand the project after the event.
+
+- **Final demo or report:** [Add a link]
+- **Main result:** [Summarize what the team built or learned]
+- **How to reproduce or run it:** [Link to the relevant instructions]
+- **Data and source notes:** [Link to provenance, citations, and licenses]
+- **Known limitations:** [What should a reader be careful about?]
+- **Next steps:** [What would be worth doing next?]
+
+Keep generated figures and reports clearly named. Do not commit sensitive data or files that cannot be redistributed.
+
+## Communications
+
+Keep communication easy to find and easy to use during the three-day event.
+
+- **Primary channel:** [Add the team channel or meeting link]
+- **Team lead:** [Add name and GitHub handle]
+- **Mentor or support contact:** [Add contact]
+- **Check-in time:** [Add a recurring time or agree in the team plan]
+
+Use `project-management/check-in.md` for short updates when useful (create the file if needed). Do not store private contact details or sensitive project information in this public repository.
 
 ## Optional Templates
 
