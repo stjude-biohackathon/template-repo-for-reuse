@@ -124,9 +124,11 @@ Keep generated figures and reports clearly named. Do not commit sensitive data o
 Keep communication easy to find and easy to use during the three-day event.
 
 - **Primary channel:** [Add the team channel or meeting link]
+- **Slack team channel:** [Add the team slack channel]
 - **Team lead:** [Add name and GitHub handle]
 - **Mentor or support contact:** [Add contact]
 - **Check-in time:** [Add a recurring time or agree in the team plan]
+- **Slack general channel:** [Use this general channel for communication to all teams](https://stjudebiohackathon.slack.com/archives/C04JD4M3TCM)
 
 Use `project-management/check-in.md` for short updates when useful (create the file if needed). Do not store private contact details or sensitive project information in this public repository.
 
